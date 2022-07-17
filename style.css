@@ -1,0 +1,122 @@
+*{
+    font-family: 'Poppins', sans-serif;
+
+    
+}
+main{
+    margin-left: 90px;
+    margin-right:90px;
+}
+.header-section{
+    align-items: center;
+    background-color: #fff6e6;
+    display: flex;
+}
+.color-h{
+    line-height: 150%;
+    color: #ffa500;
+}
+.first-div{
+    padding-left: 50px;
+    width: 50%;
+
+}
+.sub-btn{
+    text-decoration: none;
+    background:linear-gradient(to right,#ff4f00,#ff9500) ;
+    padding: 10px 17px;
+    border-radius: 5px;
+    color: white;
+}
+/* --------------second section------------------ */
+.second-h{
+    color:#ffa500;
+text-align: center;
+   
+}
+.second-header{
+    text-align: center;
+}
+.second-setion{
+    margin-bottom: 50px;
+  display: flex;
+  justify-content: space-evenly;
+}
+.card{
+    border-radius: 2px;
+    display: flex;
+    margin: 20px;
+    width:1fr;
+    height: 150px;
+    background-color: #fff6e6;
+    display: flex;
+
+}
+.card img{
+    height: 68px;
+    width: 68px;
+    text-align: center;
+    margin: 30px 5px 30px 30px;
+}
+/* -----------------------logo section start-------------------- */
+.hd3{
+    text-align: center;
+}
+.sp3{
+    color: #ff9500;
+}
+.laptop{
+    color: #ff9500;
+}
+/* -----------------------------third section------------------- */
+.third-section{
+    display:flex ;
+}
+.third-section div{
+  
+    text-align: center;
+    margin: 30px;
+    box-shadow: 10px 10px 30px rgb(180, 175, 175);
+}
+.taka{
+    text-align: center;
+    font-weight: 700;
+}
+.ammount-btn{
+    text-align: center;
+    display: block;
+}
+/* ---------------------------footer section------------- */
+fieldset{
+
+    background-color: #fff6e6;
+    height: 160px;
+    border: none;
+    margin-bottom: 50px;
+
+}
+
+
+.sub-section{
+    text-align: center;
+    margin-top: 80px;
+}
+.submit-mail{
+    padding: 10px 20px;
+}
+.last{
+    border: none;
+    padding: 13px 20px;
+
+}
+footer{
+    background: black;
+    padding: 50px;
+    margin-top: 20px;
+}
+h6{
+    color: aliceblue;
+}
+.tec{
+    color: white;
+}
